@@ -1,4 +1,4 @@
 # prolog
-Daniel Camargo
-Andres Reyes
-Carlos Fuentes
+#Daniel Camargo 
+#Andres Reyes
+#Carlos Fuentes
